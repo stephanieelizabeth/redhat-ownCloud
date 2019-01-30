@@ -106,7 +106,7 @@ Android or OS Operating System is required.
    
 
 
-​		
+theme: jekyll-theme-slate	
 
 
 
