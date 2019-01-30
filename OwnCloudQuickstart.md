@@ -97,7 +97,7 @@ Android or OS Operating System is required.
 
 #### Desktop 	
 
-1. [Download](https://owncloud.org/download/#owncloud-desktop-client Download the .msi) and Launch .msi and configure following the Wizard.
+1. [Download](https://owncloud.org/download/#owncloud-desktop-client) and Launch .msi and configure following the Wizard.
 
 [Installation Links]: https://owncloud.org/download/#owncloud-desktop-client	"Download the .msi"
 
