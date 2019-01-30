@@ -1,4 +1,4 @@
-## Quickstart
+## ownCloud Server and Client Quickstart
 
 ## ​Connect to ownCloud as a Client
 
