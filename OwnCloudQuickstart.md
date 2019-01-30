@@ -2,7 +2,7 @@
 
 ## ​Connect to ownCloud as a Client
 
-1. Install the  [ownCloud Desktop Client](https://github.com/stephanieelizabeth/redhat-ownCloud/Connecting to Mobile or Desktop Client)
+1. Launch the ownCloud Desktop Client
 2. Choose a URL
 3. Create Login and Password
 4. Sync Files
