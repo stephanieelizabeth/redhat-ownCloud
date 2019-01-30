@@ -32,13 +32,11 @@
 
 4. "Finish Setup"  
 
-5. Strong Permissions 
-
-   Run the Script to set up Strong Permissions for Ownership Security: [Script and Reference](https://doc.owncloud.org/server/10.0/admin_manual/maintenance/update.html#set-updating-permissions-label) 
+5. Strong Permissions: Run the Script to set up Strong Permissions for Ownership Security: [Script and Reference](https://doc.owncloud.org/server/10.0/admin_manual/maintenance/update.html#set-updating-permissions-label) 
 
    [Script and Reference]: https://doc.owncloud.org/server/10.0/admin_manual/maintenance/update.html#set-updating-permissions-label
 
-   6. Configuration
+6. Configuration
 
    For Configuration specific to your desired requirements refer to the [Configuration Options.](https://doc.owncloud.org/server/10.0/admin_manual/installation/configuration_notes_and_tips.html)
 
