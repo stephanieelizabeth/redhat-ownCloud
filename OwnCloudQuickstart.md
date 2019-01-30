@@ -40,7 +40,7 @@
 
    6. Configuration
 
-   For Configuration specific to your desired requirements refer to the [Configuration Options.](https://doc.owncloud.org/server/10.0/admin_manual/installation/configuration_notes_and_tips.html 
+   For Configuration specific to your desired requirements refer to the [Configuration Options.](https://doc.owncloud.org/server/10.0/admin_manual/installation/configuration_notes_and_tips.html)
 
    [Post Installation Steps]: https://doc.owncloud.org/server/10.0/admin_manual/installation/configuration_notes_and_tips.html	"Post Installation Options"
 
