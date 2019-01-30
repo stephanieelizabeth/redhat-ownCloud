@@ -60,9 +60,7 @@
 
 5. Open in Browser and Sync
 
-6. 
-
-
+   
 
 ### Enable Users to Connect to Own Cloud Server with Host - Admin 
 
@@ -82,6 +80,8 @@ Create a new User by following the steps:
 4. Enter the desired Username and Password for the New User
 5. Assign User to a Group (Optional)
 6. "Create"
+
+
 
 
 
